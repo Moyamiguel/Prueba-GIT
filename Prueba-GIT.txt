@@ -5,6 +5,17 @@ git init
 git status
 git add .
 git commit -m  "nombre del cambio"
+git add .
+git commit --amend
+__________________________________________
+anadir un repositorio remoto 
+git remote add <name> <url>
+primera vez push 
+git push -u  <name> <rama>
+-------------------------------------------------------
+guardar los cambios temporalmente 
+git stash 
+traigamen los cambios 
+git stahs pop 
 
-
-holaaa hola
+123456
