@@ -1,2 +1,10 @@
 Miguel Moya Montero
 Fundamentos de programacion.
+
+git init
+git status
+git add .
+git commit -m  "nombre del cambio"
+
+
+holaaa hola
